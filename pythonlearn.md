@@ -252,7 +252,7 @@ if x[0] == ord("h"):
 
 
 
-关于各个类型的数据转换，参见：
+关于各个类型的数据转换，参见：https://www.runoob.com/python3/python3-type-conversion.html
 
 [python数据转换]: https://www.runoob.com/python3/python3-type-conversion.html	"数据转换"
 
